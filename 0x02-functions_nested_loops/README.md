@@ -1,1 +1,2 @@
-function nesting and looping
+functions nesting loops
+
